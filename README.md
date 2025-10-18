@@ -1,3 +1,4 @@
+# EXPLORACION DE DATASET
 
 <img width="998" height="276" alt="image" src="https://github.com/user-attachments/assets/a53b884c-8082-44ed-8a7f-895ef0805bbd" />
 
